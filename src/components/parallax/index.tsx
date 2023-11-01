@@ -19,7 +19,7 @@ const Parallax = ({ type }: { type: string }) => {
       style={{
         background:
           type === "services"
-            ? "linear-gradient(180deg, #1b1a1d, #141421)"
+            ? "linear-gradient(180deg, #1b1a1d, #262628)"
             : "linear-gradient(180deg, #1b1a1d, #403e40)",
       }}
     >
